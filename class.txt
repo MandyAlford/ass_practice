@@ -1,0 +1,15 @@
+class: (category) hat
+
+attributes:
+color (string)
+brand (string)
+size (integer)
+price (float)
+dirty (boolean)
+
+methods:
+
+wash (change status of dirty attribute)
+dry (decrease size)
+sale (decrease price)
+dye (change color)
