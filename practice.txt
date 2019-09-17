@@ -1,0 +1,29 @@
+top down design
+
+wash dog
+
+1. put dog in tub
+  1.1 go pick up dog
+  1.2 place dog inside bathtub
+2. put water on dog
+  2.1 turn hot water knob
+    2.1.1 adjust knob to comfortable temp
+  2.2 turn cold water knob
+    2.2.1 adjust knob to a comfortable temp
+  2.3 pour water over dog until fur is saturated
+3. lather dog
+  3.1 grab dog shampoo bottle
+  3.2 pour shampoo into palm of your hand
+  3.3 rub shampoo into dog's fur with both hands
+    3.3.1 shampoo back
+    3.3.2 shampoo each leg
+    3.3.3 shampoo undercarriage
+4. rinse dog
+  4.1 pour water over dog until it runs clear
+5. dry dog
+  5.1 grab towel
+    5.1.1 go to linen closet
+    5.1.2 pull out towel
+    5.1.3 bring towel to tub
+  5.2 wrap towel around dog
+    5.2.1 rub towel into fur until dry
